@@ -1,6 +1,9 @@
  # çok basit ve ilkel seviyede Java destekli Hava Durumu Uygulama Taslağı #
 
 
+## ⚠️ API Anahtarı Hakkında  
+API'yi kullanmak için kendi anahtarınızı girmeniz gerekmektedir.  
+**Bu repoda paylaşılan anahtar artık geçerli değildir.**
 
 
 
